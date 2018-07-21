@@ -1,4 +1,4 @@
-// http://codeforces.com/contest/807/problem/A
+
 #include <iostream>
 #include <fstream>
 #include <string>
